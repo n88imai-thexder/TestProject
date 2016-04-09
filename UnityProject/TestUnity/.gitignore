@@ -1,0 +1,10 @@
+#Unity Project‚Ìgitignore
+
+.vs/
+Library/
+obj/
+*.csproj
+*.sln
+
+
+
